@@ -1,0 +1,97 @@
+{
+  "id": "ai-act",
+  "title": "AI Act",
+  "scope": "EU",
+  "status": "Implémentation / guidance",
+  "last_updated": "2026-01-02",
+  "summary": [
+    "Cadre de régulation IA basé sur une approche par niveaux de risque.",
+    "Des guidelines, standards et actes d’exécution peuvent déplacer l’interprétation pratique.",
+    "Les obligations varient selon le rôle (provider/deployer) et le cas d’usage."
+  ],
+  "timeline": [
+    {
+      "label": "Adoption",
+      "when": "Passé",
+      "note": "Texte adopté. Le reste se joue sur exécution/guidance."
+    },
+    {
+      "label": "Guidelines / standards",
+      "when": "En cours",
+      "note": "Guidance et standards structurent l’interprétation."
+    },
+    {
+      "label": "Pratiques de conformité",
+      "when": "À venir",
+      "note": "Maturation des pratiques internes et contrôles."
+    },
+    {
+      "label": "Enforcement",
+      "when": "À venir",
+      "note": "Effets concrets via contrôles/sanctions."
+    }
+  ],
+  "tensions": [
+    {
+      "title": "Définition / périmètre",
+      "note": "Frontière entre usages interdits, high-risk, et usages à obligations limitées."
+    },
+    {
+      "title": "Obligations high-risk",
+      "note": "Gouvernance, gestion des risques, qualité données, documentation, surveillance."
+    },
+    {
+      "title": "Générative / modèles",
+      "note": "Transparence, documentation, obligations spécifiques selon catégorie de modèle."
+    },
+    {
+      "title": "Enforcement & sanctions",
+      "note": "Rôle des autorités compétentes, mécanismes de contrôle, sanctions."
+    }
+  ],
+  "frozen": [
+    "Structure générale par risque",
+    "Rôles dans la chaîne de valeur",
+    "Principe de traçabilité/documentation"
+  ],
+  "moving": [
+    "Guidelines et Q&A",
+    "Standards harmonisés",
+    "Pratiques d’enforcement"
+  ],
+  "sources": [
+    {
+      "name": "Commission européenne — AI Act",
+      "type": "Source officielle",
+      "date": "2026-01-02",
+      "url": "https://commission.europa.eu"
+    },
+    {
+      "name": "Parlement européen — Dossier législatif",
+      "type": "Source officielle",
+      "date": "2026-01-02",
+      "url": "https://www.europarl.europa.eu"
+    },
+    {
+      "name": "Conseil de l’UE — Positions",
+      "type": "Source officielle",
+      "date": "2026-01-02",
+      "url": "https://www.consilium.europa.eu"
+    },
+    {
+      "name": "Journal officiel — Publication",
+      "type": "Source officielle",
+      "date": "2026-01-02",
+      "url": "https://eur-lex.europa.eu"
+    }
+  ],
+  "updates": [
+    {
+      "date": "2026-01-02",
+      "what": "Data pack AI Act v1",
+      "why": "Traçabilité MVP",
+      "src": "Sources officielles"
+    }
+  ],
+  "disclaimer": "Données de démonstration. À remplacer par un data pack maintenu."
+}
